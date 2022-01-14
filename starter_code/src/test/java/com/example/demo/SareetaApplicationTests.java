@@ -13,4 +13,9 @@ public class SareetaApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void contfextLoads() {
+	}
+
+
 }
