@@ -1,0 +1,42 @@
+2022-01-15 00:44:49,532 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on Noras-MacBook-Pro-3.local with PID 4328 (started by noraalhashmi in /Users/noraalhashmi/Documents/eCommerce Application)
+2022-01-15 00:44:49,535 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-01-15 00:44:50,853 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-01-15 00:44:50,854 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2022-01-15 00:44:50,980 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-01-15 00:44:51,123 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-15 00:44:51,263 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-15 00:44:51,307 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2022-01-15 00:44:51,364 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2022-01-15 00:44:51,365 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2022-01-15 00:44:51,495 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2022-01-15 00:44:51,604 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-01-15 00:44:53,376 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 9.204 seconds (JVM running for 9.733)
+2022-01-15 00:45:13,451 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2022-01-15 00:45:13,455 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2022-01-15 01:22:33,292 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on Noras-MacBook-Pro-3.local with PID 4863 (started by noraalhashmi in /Users/noraalhashmi/Documents/eCommerce Application)
+2022-01-15 01:22:33,295 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2022-01-15 01:22:35,054 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-01-15 01:22:35,055 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2022-01-15 01:22:35,179 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-01-15 01:22:35,400 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-15 01:22:35,598 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-15 01:22:35,688 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2022-01-15 01:22:35,818 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2022-01-15 01:22:35,820 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2022-01-15 01:22:36,048 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2022-01-15 01:22:36,268 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-01-15 01:22:38,418 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 10.61 seconds (JVM running for 11.255)
+2022-01-15 01:22:44,322 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-15 01:22:44,536 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-1] Password error for the user: nora
+2022-01-15 01:22:56,706 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-4] User created with username: nora
+2022-01-15 01:23:21,896 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-5] HHH000397: Using ASTQueryTranslatorFactory
+2022-01-15 01:23:49,092 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-7] Cannot create order because the username (nora1) is not found
+2022-01-15 01:23:56,778 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-8] Order created for the user: nora
+2022-01-15 01:24:09,952 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-9] Order created for the user: nora
+2022-01-15 01:24:10,978 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-10] Order created for the user: nora
+2022-01-15 01:24:22,187 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2022-01-15 01:24:22,189 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
